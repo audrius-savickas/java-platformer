@@ -1,0 +1,22 @@
+{ "columns":14,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"..\/"
+        }
+    },
+ "image":"tileset.png",
+ "imageheight":448,
+ "imagewidth":896,
+ "margin":0,
+ "name":"tileset2",
+ "spacing":0,
+ "tilecount":98,
+ "tiledversion":"1.4.3",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":1.4
+}
