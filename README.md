@@ -1,5 +1,5 @@
 # About
-Created a 2D platformer for Windows and Linux which has the following requirements:
+Created a 2D Java Processing platformer for Windows and Linux which has the following requirements:
 * Ability to edit a level
 * Collision with objects
 * Map should be larger than the window size
@@ -23,3 +23,8 @@ To play the game, download the folder for your appropriate OS from "Executables"
 Controls:
 
 A - left, D - right, W - jump
+
+# Pictures
+![Game Picture 1](https://i.imgur.com/pqnlGyx.png)
+![Game Picture 2](https://i.imgur.com/JdSrlvx.png)
+![Game Picture 3](https://i.imgur.com/aQ0eQBU.png)
