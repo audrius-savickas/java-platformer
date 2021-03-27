@@ -1,2 +1,25 @@
-# java-platformer
-1st assignment for OOP
+# About
+Created a 2D platformer for Windows and Linux which has the following requirements:
+* Ability to edit a level
+* Collision with objects
+* Map should be larger than the window size
+* A tileset should be used to construct the map
+* A character has to do tasks and overcome obstacles
+* The level should change after completing a task
+* Character has to have physics and animations
+* Game's scenario is freely chosen by the student
+
+Used art:
+
+* [Player sprites](https://opengameart.org/content/a-platformer-in-the-forest)
+* [Tileset](https://aamatniekss.itch.io/free-pixelart-tileset-cute-forest)
+* [Background](https://ansimuz.itch.io/magic-cliffs-environment)
+
+# Usage
+**To be able to play, Java Runtime Environment is required to be installed!**
+
+To play the game, download the folder for your appropriate OS from "Executables". For example, for Windows 64-bit, download the "application.windows64" folder and launch "Game.exe". 
+
+Controls:
+
+A - left, D - right, W - jump
