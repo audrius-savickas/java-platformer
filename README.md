@@ -21,7 +21,6 @@ Used art:
 To play the game, download the folder for your appropriate OS from "Executables". For example, for Windows 64-bit, download the "application.windows64" folder and launch "Game.exe". 
 
 Controls:
-
 A - left, D - right, W - jump
 
 # Pictures
