@@ -16,7 +16,7 @@ Used art:
 * [Background](https://ansimuz.itch.io/magic-cliffs-environment)
 
 # Usage
-**To be able to play, Java Runtime Environment is required to be installed!**
+**To be able to play, Java 8 or newer version is required to be installed!**
 
 To play the game, download the folder for your appropriate OS from "Executables". For example, for Windows 64-bit, download the "application.windows64" folder and launch "Game.exe". 
 
